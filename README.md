@@ -30,6 +30,19 @@
 
 4.- EXPLICACIÓN
 
+4.1.- PROCEDIMIENTO
+
+1.	Se ingresa a la plataforma DCACLAB, se crea una cuenta, a continuación, se da click en laboratorio y se comienza a crear el circuito.
+
+2.	Se seleccionan los materiales que vamos a utilizar, 4 resistencias, 1 capacitor, 1 inductor, multímetro digital, fuente de voltaje alterno y un osciloscopio.
+
+3.	Se coloca la fuente de voltaje y del terminal de esta fuente se coloca 1 capacitor(5Kohm), 4 resistencias (1 Kohm-3,3Kohm-10Kohm-4,7Kohm) y 1 inductor (3Kohm).
+
+4.	Se modifica la fuente alterna colocando 50 Vpp a una frecuencia de 60 KHz.
+
+5.	Para conectar el osciloscopio se coloca sus terminales a los extremos de la resistencia RL y al osciloscopio se lo configura en 0.1m
+
+6.	Para conectar el multímetro analógico se lo conecta en paralelo a la RL.
 
 
 5.- APORTACIONES
