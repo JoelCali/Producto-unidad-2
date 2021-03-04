@@ -30,6 +30,10 @@
 
 4.- EXPLICACIÓN
 
+Para el circuito del ejercicio numero 9 se realizaron varios cálculos, los cuales constaban de reducir el circuito y encontrar sus respectivas impedancias por el método de Thévenin. Para reducir nuestro circuito, aplicamos calculo de resistencias en serie-paralelo, el cual nos permitirá buscar 3 resistencias equivalentes (sabiendo que en el circuito se debe suprimir R4 para aplicar el método de Thévenin) y aplicaremos las fórmulas del cálculo de impedancias; la primera será el calculo en paralelo de XL con la resistencia R2, la segunda instancia será el resultado equivalente 1 más la resistencia R1, la tercera instancia tratará del resultado equivalente 2 con la resistencia R3 y por último será el resultado equivalente 3 más la capacitancia Xc. Para finalizar usaremos ley de Ohm con nuestros datos para obtener la corriente total. 
+Cuando obtenemos nuestra intensidad total en el circuito , debemos calcular de la misma manera nuestro circuito equivalente con la diferencia que ahora se unirá la resistencia R4 para el calculo final de la intensidad de corriente en la misma, finalizando así el proceso.
+
+
 4.1.- PROCEDIMIENTO
 
 1.	Se ingresa a la plataforma DCACLAB, se crea una cuenta, a continuación, se da click en laboratorio y se comienza a crear el circuito.
