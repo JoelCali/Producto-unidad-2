@@ -26,9 +26,17 @@
 
 3.- LISTA DE COMPONENTES
 
+![image](https://user-images.githubusercontent.com/76134214/109918469-fef61700-7c84-11eb-8fa1-19c4cce63a9b.png)
+
 4.- EXPLICACIÓN
 
+
+
 5.- APORTACIONES
+
+![image](https://user-images.githubusercontent.com/76134214/109918476-01f10780-7c85-11eb-8dd2-aa32b254559f.png)
+
+![image](https://user-images.githubusercontent.com/76134214/109918665-5f855400-7c85-11eb-83f7-ee0fde30b234.png)
 
 6.- CONCLUSIONES
 
